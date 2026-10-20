@@ -1,0 +1,6 @@
+{
+  "name": "The Bun Basket",
+  "description": "The Bun Basket by Two Brothers - 100% Pure Veg Cafe Menu, Online Ordering, Buns Special, Siders, Refreshers, Cheela, Parantha, Kathi Rolls & Beverages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
